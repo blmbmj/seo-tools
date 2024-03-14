@@ -13,6 +13,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [SerpStat](https://serpstat.com)
 - [Raven Tools](https://raventools.com)
 - [SEO Power Suite](https://www.link-assistant.com)
+- [Visual SEO Studio] (https://visual-seo.com/)
 
 ## 🔎 Keyword Tools
 - [Google Keyword Planner](https://ads.google.com/intl/en_in/home/tools/keyword-planner/)
